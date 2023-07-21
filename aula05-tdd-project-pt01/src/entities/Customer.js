@@ -1,4 +1,4 @@
-import Base from "./base/base";
+import Base from "./base/base.js";
 
 class Customer extends Base {
   constructor({ id, name, age }) {
@@ -7,3 +7,5 @@ class Customer extends Base {
     this.age = age;
   }
 }
+
+export { Customer };

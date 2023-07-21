@@ -1,4 +1,4 @@
-import Base from "./base/base";
+import Base from "./base/base.js";
 
 class Car extends Base {
   constructor({ id, name, reselaseYear, available, gasAvailable }) {
@@ -9,3 +9,5 @@ class Car extends Base {
     this.gasAvailable = gasAvailable;
   }
 }
+
+export { Car };

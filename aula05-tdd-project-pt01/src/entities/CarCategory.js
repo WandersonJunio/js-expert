@@ -1,4 +1,4 @@
-import Base from "./base/base";
+import Base from "./base/base.js";
 
 class CarCategory extends Base {
   constructor({ id, name, carIds, price }) {
@@ -8,3 +8,5 @@ class CarCategory extends Base {
     this.price = price;
   }
 }
+
+export { CarCategory };
