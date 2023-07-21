@@ -39,6 +39,7 @@ for (let index = 0; index <= ITEMS_AMOUNT; index++) {
 
   carCategory.carIds.push(car.id);
   cars.push(car);
+  customers.push(customer);
 }
 
 const write = (filename, data) =>

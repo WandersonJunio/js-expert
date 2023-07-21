@@ -1,1 +1,30 @@
-[{"id":"2c959203-94d4-4413-9432-e04395f45b96","name":"Cargo Van","reselaseYear":2023,"available":true,"gasAvailable":true},{"id":"5d72b795-85a0-43da-aa0b-97c52e96ac3a","name":"Crew Cab Pickup","reselaseYear":2023,"available":true,"gasAvailable":true},{"id":"c568b611-3d3b-4539-b121-2f64f4c5fcc6","name":"Coupe","reselaseYear":2023,"available":true,"gasAvailable":true},{"id":"082728c9-2a90-4bee-aa2f-2b7c6939d884","name":"Wagon","reselaseYear":2023,"available":true,"gasAvailable":true}]
+[
+  {
+    "id": "e06955b8-fbb4-48b6-b11f-e7987f99a7a6",
+    "name": "Cargo Van",
+    "reselaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c261e79f-35f2-4667-b652-212d259df53b",
+    "name": "Passenger Van",
+    "reselaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5d5acf21-d4fb-4f17-9829-ff1df5843b36",
+    "name": "Crew Cab Pickup",
+    "reselaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "0c2eb229-db41-40ae-85f4-1b0f48ccdfe9",
+    "name": "Hatchback",
+    "reselaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
